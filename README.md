@@ -52,7 +52,7 @@
 
 
 
-![snake gif](https://github.com/SusanGithaigaN/SusanGithaigaN/tree/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/SusanGithaigaN/SusanGithaigaN/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
