@@ -2,7 +2,13 @@
 ### <div align="center">I'm Susan Githaiga, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Recipe app](https://github.com/SusanGithaigaN/recipe-app)  
+- 🔭 I’m currently working on the following projects:
+
+frontend:
+i) [Recipe app](https://github.com/SusanGithaigaN/recipe-app)
+ii) [Syntium Algo](https://syntiumalgo.com/)
+
+UI/UX: [Fitness App](https://www.figma.com/proto/d2ZKTO8DG0XSo31wZX3M5r/FitLinka-app?type=design&node-id=1-2&t=tHyjZRzayBXT55jj-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 -  🌱 I’m currently learning Python and Angular
 
 - ⚡ Fun fact: I use tabs over spaces  
