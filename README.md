@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on the following projects:
 
--> Frontend: [Recipe app](https://github.com/SusanGithaigaN/recipe-app) and [Syntium Algo](https://syntiumalgo.com/).
+- Frontend: [Recipe app](https://github.com/SusanGithaigaN/recipe-app) and [Syntium Algo](https://syntiumalgo.com/).
 
-->UI/UX: [Fitness App](https://www.figma.com/proto/d2ZKTO8DG0XSo31wZX3M5r/FitLinka-app?type=design&node-id=1-2&t=tHyjZRzayBXT55jj-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+- UI/UX: [Fitness App]([https://www.figma.com/proto/d2ZKTO8DG0XSo31wZX3M5r/FitLinka-app?type=design&node-id=1-2&t=tHyjZRzayBXT55jj-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/d2ZKTO8DG0XSo31wZX3M5r/FitLinka-app?type=design&node-id=1-2&t=UXzFhqAy8MpcaeTU-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1))
 <br /><br />
 -  🌱 I’m currently learning Python and Angular
 
