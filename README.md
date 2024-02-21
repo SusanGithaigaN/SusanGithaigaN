@@ -5,11 +5,10 @@
 
 <!-- - 🔭 I’m currently working on the following projects: -->
 
-<!--- Frontend: [Recipe app](https://github.com/SusanGithaigaN/recipe-app) and [Syntium Algo](https://syntiumalgo.com/). -->
 
 <!--- UI/UX: [Fitness App](https://www.figma.com/proto/d2ZKTO8DG0XSo31wZX3M5r/FitLinka-app?type=design&node-id=1-2&t=UXzFhqAy8MpcaeTU-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 <br /><br />
- -  🌱 I’m currently learning Python and Angular -->
+ 
 
 <!--- ⚡ Fun fact: I use tabs over spaces  -->
 
@@ -35,39 +34,5 @@
  <div align="center"> <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> </div> </td></tr></table> <br/>
 
 -->
-![scrat]([https://res.cloudinary.com/dfczhaomn/image/upload/v1708509042/Untitled_design_3_nljmy4.png](https://res.cloudinary.com/dfczhaomn/image/upload/v1708509042/Untitled_design_3_nljmy4.png))
+![](https://res.cloudinary.com/dfczhaomn/image/upload/v1708509042/Untitled_design_3_nljmy4.png)
 
-
-## Connect with me  
-<div align="center">
-<!-- <a href="https://github.com/SusanGithaigaN" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://twitter.com/@Su_Githaiga" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/susan-githaiga-2832b11aa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://instagram.com/githaiga_sn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   -->
-</div>  
-  
-
-<br/>  
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SusanGithaigaN&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SusanGithaigaN)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanGithaigaN&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-![Snake animation](https://github.com/SusanGithaigaN/SusanGithaigaN/blob/output/github-contribution-grid-snake.svg)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=SusanGithaigaN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
