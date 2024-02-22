@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Susan Githaiga, a full-stack developer 👨‍💻 🚀</div>  
+<!-- ### <div align="center">I'm Susan Githaiga, a full-stack developer 👨‍💻 🚀</div>  -->
   
 
 <!-- - 🔭 I’m currently working on the following projects: -->
